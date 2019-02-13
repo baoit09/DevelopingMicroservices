@@ -1,0 +1,9 @@
+C:\Working\github\DevelopingMicroservices\PurchaseOrderManagement\CodeProject.PurchaseOrderManagement.Data.Models\bin\Debug\netcoreapp2.1\CodeProject.PurchaseOrderManagement.Data.Models.deps.json
+C:\Working\github\DevelopingMicroservices\PurchaseOrderManagement\CodeProject.PurchaseOrderManagement.Data.Models\bin\Debug\netcoreapp2.1\CodeProject.PurchaseOrderManagement.Data.Models.dll
+C:\Working\github\DevelopingMicroservices\PurchaseOrderManagement\CodeProject.PurchaseOrderManagement.Data.Models\bin\Debug\netcoreapp2.1\CodeProject.PurchaseOrderManagement.Data.Models.pdb
+C:\Working\github\DevelopingMicroservices\PurchaseOrderManagement\CodeProject.PurchaseOrderManagement.Data.Models\obj\Debug\netcoreapp2.1\CodeProject.PurchaseOrderManagement.Data.Models.csproj.CoreCompileInputs.cache
+C:\Working\github\DevelopingMicroservices\PurchaseOrderManagement\CodeProject.PurchaseOrderManagement.Data.Models\obj\Debug\netcoreapp2.1\CodeProject.PurchaseOrderManagement.Data.Models.AssemblyInfoInputs.cache
+C:\Working\github\DevelopingMicroservices\PurchaseOrderManagement\CodeProject.PurchaseOrderManagement.Data.Models\obj\Debug\netcoreapp2.1\CodeProject.PurchaseOrderManagement.Data.Models.AssemblyInfo.cs
+C:\Working\github\DevelopingMicroservices\PurchaseOrderManagement\CodeProject.PurchaseOrderManagement.Data.Models\obj\Debug\netcoreapp2.1\CodeProject.PurchaseOrderManagement.Data.Models.dll
+C:\Working\github\DevelopingMicroservices\PurchaseOrderManagement\CodeProject.PurchaseOrderManagement.Data.Models\obj\Debug\netcoreapp2.1\CodeProject.PurchaseOrderManagement.Data.Models.pdb
+C:\Working\github\DevelopingMicroservices\PurchaseOrderManagement\CodeProject.PurchaseOrderManagement.Data.Models\obj\Debug\netcoreapp2.1\CodeProject.PurchaseOrderManagement.Data.Models.csprojAssemblyReference.cache

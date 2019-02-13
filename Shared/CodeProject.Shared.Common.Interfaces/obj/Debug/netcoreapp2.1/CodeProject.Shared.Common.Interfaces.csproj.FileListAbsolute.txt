@@ -1,0 +1,12 @@
+C:\Working\github\DevelopingMicroservices\Shared\CodeProject.Shared.Common.Interfaces\bin\Debug\netcoreapp2.1\CodeProject.Shared.Common.Interfaces.deps.json
+C:\Working\github\DevelopingMicroservices\Shared\CodeProject.Shared.Common.Interfaces\bin\Debug\netcoreapp2.1\CodeProject.Shared.Common.Interfaces.dll
+C:\Working\github\DevelopingMicroservices\Shared\CodeProject.Shared.Common.Interfaces\bin\Debug\netcoreapp2.1\CodeProject.Shared.Common.Interfaces.pdb
+C:\Working\github\DevelopingMicroservices\Shared\CodeProject.Shared.Common.Interfaces\bin\Debug\netcoreapp2.1\CodeProject.Shared.Common.Models.dll
+C:\Working\github\DevelopingMicroservices\Shared\CodeProject.Shared.Common.Interfaces\bin\Debug\netcoreapp2.1\CodeProject.Shared.Common.Models.pdb
+C:\Working\github\DevelopingMicroservices\Shared\CodeProject.Shared.Common.Interfaces\obj\Debug\netcoreapp2.1\CodeProject.Shared.Common.Interfaces.csprojAssemblyReference.cache
+C:\Working\github\DevelopingMicroservices\Shared\CodeProject.Shared.Common.Interfaces\obj\Debug\netcoreapp2.1\CodeProject.Shared.Common.Interfaces.csproj.CoreCompileInputs.cache
+C:\Working\github\DevelopingMicroservices\Shared\CodeProject.Shared.Common.Interfaces\obj\Debug\netcoreapp2.1\CodeProject.Shared.Common.Interfaces.AssemblyInfoInputs.cache
+C:\Working\github\DevelopingMicroservices\Shared\CodeProject.Shared.Common.Interfaces\obj\Debug\netcoreapp2.1\CodeProject.Shared.Common.Interfaces.AssemblyInfo.cs
+C:\Working\github\DevelopingMicroservices\Shared\CodeProject.Shared.Common.Interfaces\obj\Debug\netcoreapp2.1\CodeProject.Shared.Common.Interfaces.csproj.CopyComplete
+C:\Working\github\DevelopingMicroservices\Shared\CodeProject.Shared.Common.Interfaces\obj\Debug\netcoreapp2.1\CodeProject.Shared.Common.Interfaces.dll
+C:\Working\github\DevelopingMicroservices\Shared\CodeProject.Shared.Common.Interfaces\obj\Debug\netcoreapp2.1\CodeProject.Shared.Common.Interfaces.pdb

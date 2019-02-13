@@ -1,0 +1,16 @@
+C:\Working\github\DevelopingMicroservices\PurchaseOrderManagement\CodeProject.PurchaseOrderManagement.Interfaces\bin\Debug\netcoreapp2.2\CodeProject.PurchaseOrderManagement.Interfaces.deps.json
+C:\Working\github\DevelopingMicroservices\PurchaseOrderManagement\CodeProject.PurchaseOrderManagement.Interfaces\bin\Debug\netcoreapp2.2\CodeProject.PurchaseOrderManagement.Interfaces.dll
+C:\Working\github\DevelopingMicroservices\PurchaseOrderManagement\CodeProject.PurchaseOrderManagement.Interfaces\bin\Debug\netcoreapp2.2\CodeProject.PurchaseOrderManagement.Interfaces.pdb
+C:\Working\github\DevelopingMicroservices\PurchaseOrderManagement\CodeProject.PurchaseOrderManagement.Interfaces\bin\Debug\netcoreapp2.2\CodeProject.PurchaseOrderManagement.Data.Models.dll
+C:\Working\github\DevelopingMicroservices\PurchaseOrderManagement\CodeProject.PurchaseOrderManagement.Interfaces\bin\Debug\netcoreapp2.2\CodeProject.Shared.Common.Interfaces.dll
+C:\Working\github\DevelopingMicroservices\PurchaseOrderManagement\CodeProject.PurchaseOrderManagement.Interfaces\bin\Debug\netcoreapp2.2\CodeProject.Shared.Common.Models.dll
+C:\Working\github\DevelopingMicroservices\PurchaseOrderManagement\CodeProject.PurchaseOrderManagement.Interfaces\bin\Debug\netcoreapp2.2\CodeProject.Shared.Common.Interfaces.pdb
+C:\Working\github\DevelopingMicroservices\PurchaseOrderManagement\CodeProject.PurchaseOrderManagement.Interfaces\bin\Debug\netcoreapp2.2\CodeProject.PurchaseOrderManagement.Data.Models.pdb
+C:\Working\github\DevelopingMicroservices\PurchaseOrderManagement\CodeProject.PurchaseOrderManagement.Interfaces\bin\Debug\netcoreapp2.2\CodeProject.Shared.Common.Models.pdb
+C:\Working\github\DevelopingMicroservices\PurchaseOrderManagement\CodeProject.PurchaseOrderManagement.Interfaces\obj\Debug\netcoreapp2.2\CodeProject.PurchaseOrderManagement.Interfaces.csprojAssemblyReference.cache
+C:\Working\github\DevelopingMicroservices\PurchaseOrderManagement\CodeProject.PurchaseOrderManagement.Interfaces\obj\Debug\netcoreapp2.2\CodeProject.PurchaseOrderManagement.Interfaces.csproj.CoreCompileInputs.cache
+C:\Working\github\DevelopingMicroservices\PurchaseOrderManagement\CodeProject.PurchaseOrderManagement.Interfaces\obj\Debug\netcoreapp2.2\CodeProject.PurchaseOrderManagement.Interfaces.AssemblyInfoInputs.cache
+C:\Working\github\DevelopingMicroservices\PurchaseOrderManagement\CodeProject.PurchaseOrderManagement.Interfaces\obj\Debug\netcoreapp2.2\CodeProject.PurchaseOrderManagement.Interfaces.AssemblyInfo.cs
+C:\Working\github\DevelopingMicroservices\PurchaseOrderManagement\CodeProject.PurchaseOrderManagement.Interfaces\obj\Debug\netcoreapp2.2\CodeProject.PurchaseOrderManagement.Interfaces.csproj.CopyComplete
+C:\Working\github\DevelopingMicroservices\PurchaseOrderManagement\CodeProject.PurchaseOrderManagement.Interfaces\obj\Debug\netcoreapp2.2\CodeProject.PurchaseOrderManagement.Interfaces.dll
+C:\Working\github\DevelopingMicroservices\PurchaseOrderManagement\CodeProject.PurchaseOrderManagement.Interfaces\obj\Debug\netcoreapp2.2\CodeProject.PurchaseOrderManagement.Interfaces.pdb

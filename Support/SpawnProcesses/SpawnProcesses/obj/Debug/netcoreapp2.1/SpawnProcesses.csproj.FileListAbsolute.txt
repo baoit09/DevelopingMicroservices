@@ -1,0 +1,12 @@
+C:\Working\github\DevelopingMicroservices\Support\SpawnProcesses\SpawnProcesses\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\Working\github\DevelopingMicroservices\Support\SpawnProcesses\SpawnProcesses\bin\Debug\netcoreapp2.1\SpawnProcesses.deps.json
+C:\Working\github\DevelopingMicroservices\Support\SpawnProcesses\SpawnProcesses\bin\Debug\netcoreapp2.1\SpawnProcesses.runtimeconfig.json
+C:\Working\github\DevelopingMicroservices\Support\SpawnProcesses\SpawnProcesses\bin\Debug\netcoreapp2.1\SpawnProcesses.runtimeconfig.dev.json
+C:\Working\github\DevelopingMicroservices\Support\SpawnProcesses\SpawnProcesses\bin\Debug\netcoreapp2.1\SpawnProcesses.dll
+C:\Working\github\DevelopingMicroservices\Support\SpawnProcesses\SpawnProcesses\bin\Debug\netcoreapp2.1\SpawnProcesses.pdb
+C:\Working\github\DevelopingMicroservices\Support\SpawnProcesses\SpawnProcesses\obj\Debug\netcoreapp2.1\SpawnProcesses.csprojAssemblyReference.cache
+C:\Working\github\DevelopingMicroservices\Support\SpawnProcesses\SpawnProcesses\obj\Debug\netcoreapp2.1\SpawnProcesses.csproj.CoreCompileInputs.cache
+C:\Working\github\DevelopingMicroservices\Support\SpawnProcesses\SpawnProcesses\obj\Debug\netcoreapp2.1\SpawnProcesses.AssemblyInfoInputs.cache
+C:\Working\github\DevelopingMicroservices\Support\SpawnProcesses\SpawnProcesses\obj\Debug\netcoreapp2.1\SpawnProcesses.AssemblyInfo.cs
+C:\Working\github\DevelopingMicroservices\Support\SpawnProcesses\SpawnProcesses\obj\Debug\netcoreapp2.1\SpawnProcesses.dll
+C:\Working\github\DevelopingMicroservices\Support\SpawnProcesses\SpawnProcesses\obj\Debug\netcoreapp2.1\SpawnProcesses.pdb

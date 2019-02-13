@@ -1,0 +1,1 @@
+C:\Working\github\DevelopingMicroservices\Portal\CodeProject.Portal\obj\Debug\netcoreapp2.1\CodeProject.Portal.csprojAssemblyReference.cache

@@ -52,7 +52,6 @@ export class AppComponent {
         this.isAuthenicated = sessionService.isAuthenicated;
 
         sessionService.startSession();
-
     }
 
     private moduleLoadedEvent(event: any) {

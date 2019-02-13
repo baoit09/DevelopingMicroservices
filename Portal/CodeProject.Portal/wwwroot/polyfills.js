@@ -5467,7 +5467,7 @@ __webpack_require__.r(__webpack_exports__);
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-module.exports = __webpack_require__(/*! C:\MyFiles\_CodeProjectMicroServices\CodeProjectMicroServices\Portal\CodeProject.Portal\src\polyfills.ts */"./src/polyfills.ts");
+module.exports = __webpack_require__(/*! C:\Working\github\DevelopingMicroservices\Portal\CodeProject.Portal\src\polyfills.ts */"./src/polyfills.ts");
 
 
 /***/ })

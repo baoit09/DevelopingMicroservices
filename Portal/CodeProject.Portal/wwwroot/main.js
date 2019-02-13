@@ -65,7 +65,7 @@ module.exports = ""
 /*! no static exports found */
 /***/ (function(module, exports) {
 
-module.exports = "<mat-toolbar color=\"primary\">\n  <mat-toolbar-row>\n\n    <mat-toolbar color=\"primary\">\n      <div [hidden]=\"!isAuthenicated\">\n        <button mat-icon-button (click)=\"toggleNavBar()\">\n          <mat-icon>apps</mat-icon>\n        </button>\n      </div>\n      <h1 class=\"example-app-name\">Micro Services, Inc.</h1>\n\n      <span class=\"spacer\"></span>\n      <span [hidden]=\"!isAuthenicated\" class=\"mat-body\">\n       \n      </span>\n      <span class=\"spacer\"></span>\n\n      <span [hidden]=\"isAuthenicated\" class=\"mat-body\">\n        <a mat-list-item [routerLink]=\"['/accountmanagement/account-register']\">\n          <mat-icon class=\"icon\">input</mat-icon>\n          <span class=\"label\" style=\"padding-right:20px\">Register</span>\n        </a>\n      </span>\n      <span [hidden]=\"isAuthenicated\" class=\"mat-body\">\n        <a mat-list-item [routerLink]=\"['/accountmanagement/account-login']\">\n          <mat-icon class=\"icon\">input</mat-icon>\n          <span class=\"label\">Login</span>\n        </a>\n      </span>\n\n      <span [hidden]=\"!isAuthenicated\" class=\"mat-body\" style=\"padding-right: 10px\">\n        <a mat-list-item [routerLink]=\"['/accountmanagement/user-profile']\">{{firstName}}&nbsp;{{lastName}}&nbsp; </a>\n      </span>\n\n      <span [hidden]=\"!isAuthenicated\" class=\"mat-body\">\n        <a mat-list-item style=\"cursor:pointer\" (click)=\"logout()\">Logout</a>\n      </span>\n\n\n\n    </mat-toolbar>\n  </mat-toolbar-row>\n</mat-toolbar>\n\n<div [hidden]=\"hideMenuBar || !isAuthenicated\">\n  <mat-toolbar color=\"accent\">\n\n    <div style=\"margin-right:20px;\">\n      <a mat-list-item [routerLink]=\"['/inventorymanagement/product-inquiry']\">\n        <mat-icon class=\"icon\">dashboard</mat-icon>\n        <span class=\"label\">Inventory Management</span>\n      </a>\n    </div>\n\n    <div style=\"margin-right:20px;\">\n      <a mat-list-item [routerLink]=\"['salesordermanagement/customer-inquiry']\">\n        <mat-icon class=\"icon\">dashboard</mat-icon>\n        <span class=\"label\">Sales Order Management</span>\n      </a>\n    </div>\n\n    <div style=\"margin-right:20px;\">\n      <a mat-list-item [routerLink]=\"['purchaseordermanagement/supplier-inquiry']\">\n        <mat-icon class=\"icon\">dashboard</mat-icon>\n        <span class=\"label\">Purchase Order Management</span>\n      </a>\n    </div>\n\n  </mat-toolbar>\n</div>\n\n<div [hidden]=\"!showProgressBar\" style=\"width: 100px; z-index:1000; height:25px; position: fixed; bottom:12%; right:1%; margin: -100px 0 0 -150px;\">\n  <mat-spinner></mat-spinner>\n</div>\n\n<div [hidden]=\"!hideMenuBar\" style=\"margin:0px;margin-top:0px;\">\n  <router-outlet></router-outlet>\n</div>\n\n\n<div style=\"width:100%; text-align:center\" [hidden]=\"hideMenuBar\">\n  <img src=\"../assets/homepage.png\" />\n</div>\n\n"
+module.exports = "<mat-toolbar color=\"primary\">\r\n  <mat-toolbar-row>\r\n\r\n    <mat-toolbar color=\"primary\">\r\n      <div [hidden]=\"!isAuthenicated\">\r\n        <button mat-icon-button (click)=\"toggleNavBar()\">\r\n          <mat-icon>apps</mat-icon>\r\n        </button>\r\n      </div>\r\n      <h1 class=\"example-app-name\">Micro Services, Inc.</h1>\r\n\r\n      <span class=\"spacer\"></span>\r\n      <span [hidden]=\"!isAuthenicated\" class=\"mat-body\">\r\n       \r\n      </span>\r\n      <span class=\"spacer\"></span>\r\n\r\n      <span [hidden]=\"isAuthenicated\" class=\"mat-body\">\r\n        <a mat-list-item [routerLink]=\"['/accountmanagement/account-register']\">\r\n          <mat-icon class=\"icon\">input</mat-icon>\r\n          <span class=\"label\" style=\"padding-right:20px\">Register</span>\r\n        </a>\r\n      </span>\r\n      <span [hidden]=\"isAuthenicated\" class=\"mat-body\">\r\n        <a mat-list-item [routerLink]=\"['/accountmanagement/account-login']\">\r\n          <mat-icon class=\"icon\">input</mat-icon>\r\n          <span class=\"label\">Login</span>\r\n        </a>\r\n      </span>\r\n\r\n      <span [hidden]=\"!isAuthenicated\" class=\"mat-body\" style=\"padding-right: 10px\">\r\n        <a mat-list-item [routerLink]=\"['/accountmanagement/user-profile']\">{{firstName}}&nbsp;{{lastName}}&nbsp; </a>\r\n      </span>\r\n\r\n      <span [hidden]=\"!isAuthenicated\" class=\"mat-body\">\r\n        <a mat-list-item style=\"cursor:pointer\" (click)=\"logout()\">Logout</a>\r\n      </span>\r\n\r\n\r\n\r\n    </mat-toolbar>\r\n  </mat-toolbar-row>\r\n</mat-toolbar>\r\n\r\n<div [hidden]=\"hideMenuBar || !isAuthenicated\">\r\n  <mat-toolbar color=\"accent\">\r\n\r\n    <div style=\"margin-right:20px;\">\r\n      <a mat-list-item [routerLink]=\"['/inventorymanagement/product-inquiry']\">\r\n        <mat-icon class=\"icon\">dashboard</mat-icon>\r\n        <span class=\"label\">Inventory Management</span>\r\n      </a>\r\n    </div>\r\n\r\n    <div style=\"margin-right:20px;\">\r\n      <a mat-list-item [routerLink]=\"['salesordermanagement/customer-inquiry']\">\r\n        <mat-icon class=\"icon\">dashboard</mat-icon>\r\n        <span class=\"label\">Sales Order Management</span>\r\n      </a>\r\n    </div>\r\n\r\n    <div style=\"margin-right:20px;\">\r\n      <a mat-list-item [routerLink]=\"['purchaseordermanagement/supplier-inquiry']\">\r\n        <mat-icon class=\"icon\">dashboard</mat-icon>\r\n        <span class=\"label\">Purchase Order Management</span>\r\n      </a>\r\n    </div>\r\n\r\n  </mat-toolbar>\r\n</div>\r\n\r\n<div [hidden]=\"!showProgressBar\" style=\"width: 100px; z-index:1000; height:25px; position: fixed; bottom:12%; right:1%; margin: -100px 0 0 -150px;\">\r\n  <mat-spinner></mat-spinner>\r\n</div>\r\n\r\n<div [hidden]=\"!hideMenuBar\" style=\"margin:0px;margin-top:0px;\">\r\n  <router-outlet></router-outlet>\r\n</div>\r\n\r\n\r\n<div style=\"width:100%; text-align:center\" [hidden]=\"hideMenuBar\">\r\n  <img src=\"../assets/homepage.png\" />\r\n</div>\r\n\r\n"
 
 /***/ }),
 
@@ -348,7 +348,7 @@ module.exports = ""
 /*! no static exports found */
 /***/ (function(module, exports) {
 
-module.exports = "<p>\n  about works!\n</p>\n"
+module.exports = "<p>\r\n  about works!\r\n</p>\r\n"
 
 /***/ }),
 
@@ -411,7 +411,7 @@ module.exports = ""
 /*! no static exports found */
 /***/ (function(module, exports) {
 
-module.exports = "<p>\n  contact works!\n</p>\n"
+module.exports = "<p>\r\n  contact works!\r\n</p>\r\n"
 
 /***/ }),
 
@@ -474,7 +474,7 @@ module.exports = ""
 /*! no static exports found */
 /***/ (function(module, exports) {
 
-module.exports = "\n\n<div style=\"width:100%; text-align:center\" [hidden]=\"hideMenuBar\">\n  <img src=\"../assets/homepage.png\" />\n</div>\n\n"
+module.exports = "\r\n\r\n<div style=\"width:100%; text-align:center\" [hidden]=\"hideMenuBar\">\r\n  <img src=\"../assets/homepage.png\" />\r\n</div>\r\n\r\n"
 
 /***/ }),
 
@@ -526,7 +526,7 @@ var HomeComponent = /** @class */ (function () {
 /*! no static exports found */
 /***/ (function(module, exports) {
 
-module.exports = ".sidenav-container {\n  height: 100%;\n}\n\n.sidenav {\n  width: 200px;\n}\n\n.mat-toolbar.mat-primary {\n  position: -webkit-sticky;\n  position: sticky;\n  top: 0;\n}\n"
+module.exports = ".sidenav-container {\r\n  height: 100%;\r\n}\r\n\r\n.sidenav {\r\n  width: 200px;\r\n}\r\n\r\n.mat-toolbar.mat-primary {\r\n  position: -webkit-sticky;\r\n  position: sticky;\r\n  top: 0;\r\n}\r\n"
 
 /***/ }),
 
@@ -537,7 +537,7 @@ module.exports = ".sidenav-container {\n  height: 100%;\n}\n\n.sidenav {\n  widt
 /*! no static exports found */
 /***/ (function(module, exports) {
 
-module.exports = "<mat-sidenav-container class=\"sidenav-container\">\n  <mat-sidenav\n    #drawer\n    class=\"sidenav\"\n    fixedInViewport=\"true\"\n    [attr.role]=\"(isHandset$ | async) ? 'dialog' : 'navigation'\"\n    [mode]=\"(isHandset$ | async) ? 'over' : 'side'\"\n    [opened]=\"!(isHandset$ | async)\">\n    <mat-toolbar color=\"primary\">Menu</mat-toolbar>\n    <mat-nav-list>\n      <a mat-list-item href=\"#\">Link 1</a>\n      <a mat-list-item href=\"#\">Link 2</a>\n      <a mat-list-item href=\"#\">Link 3</a>\n    </mat-nav-list>\n  </mat-sidenav>\n  <mat-sidenav-content>\n    <mat-toolbar color=\"primary\">\n      <button\n        type=\"button\"\n        aria-label=\"Toggle sidenav\"\n        mat-icon-button\n        (click)=\"drawer.toggle()\"\n        *ngIf=\"isHandset$ | async\">\n        <mat-icon aria-label=\"Side nav toggle icon\">menu</mat-icon>\n      </button>\n      <span>CodeProjectPortal</span>\n    </mat-toolbar>\n    <!-- Add Content Here -->\n  </mat-sidenav-content>\n</mat-sidenav-container>\n"
+module.exports = "<mat-sidenav-container class=\"sidenav-container\">\r\n  <mat-sidenav\r\n    #drawer\r\n    class=\"sidenav\"\r\n    fixedInViewport=\"true\"\r\n    [attr.role]=\"(isHandset$ | async) ? 'dialog' : 'navigation'\"\r\n    [mode]=\"(isHandset$ | async) ? 'over' : 'side'\"\r\n    [opened]=\"!(isHandset$ | async)\">\r\n    <mat-toolbar color=\"primary\">Menu</mat-toolbar>\r\n    <mat-nav-list>\r\n      <a mat-list-item href=\"#\">Link 1</a>\r\n      <a mat-list-item href=\"#\">Link 2</a>\r\n      <a mat-list-item href=\"#\">Link 3</a>\r\n    </mat-nav-list>\r\n  </mat-sidenav>\r\n  <mat-sidenav-content>\r\n    <mat-toolbar color=\"primary\">\r\n      <button\r\n        type=\"button\"\r\n        aria-label=\"Toggle sidenav\"\r\n        mat-icon-button\r\n        (click)=\"drawer.toggle()\"\r\n        *ngIf=\"isHandset$ | async\">\r\n        <mat-icon aria-label=\"Side nav toggle icon\">menu</mat-icon>\r\n      </button>\r\n      <span>CodeProjectPortal</span>\r\n    </mat-toolbar>\r\n    <!-- Add Content Here -->\r\n  </mat-sidenav-content>\r\n</mat-sidenav-container>\r\n"
 
 /***/ }),
 
@@ -1154,7 +1154,7 @@ Object(_angular_platform_browser_dynamic__WEBPACK_IMPORTED_MODULE_1__["platformB
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-module.exports = __webpack_require__(/*! C:\MyFiles\_CodeProjectMicroServices\CodeProjectMicroServices\Portal\CodeProject.Portal\src\main.ts */"./src/main.ts");
+module.exports = __webpack_require__(/*! C:\Working\github\DevelopingMicroservices\Portal\CodeProject.Portal\src\main.ts */"./src/main.ts");
 
 
 /***/ })
